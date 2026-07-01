@@ -1,6 +1,6 @@
 # Personal Expense Tracker — Sprint 3
 
-Full-featured desktop expense tracker built with Python · Tkinter · SQLite · Matplotlib · ReportLab
+Full-featured desktop expense tracker built with Python · Tkinter · SQLite / Firebase · Matplotlib · ReportLab
 
 ## Quick Start
 
